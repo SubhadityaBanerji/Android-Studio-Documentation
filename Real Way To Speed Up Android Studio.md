@@ -1,4 +1,4 @@
-#Real Way To Speed Up Android Studio
+# Real Way To Speed Up Android Studio
 
 If you are using Android Studio on a system having moderate(3 GB), or high RAM, then it is fairly simple to speed up Android Studio.
 
